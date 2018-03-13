@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clickcluck</string>
+    <string name="email_or_phone_no">email or phone no.</string>
+    <string name="go">GO</string>
+</resources>
